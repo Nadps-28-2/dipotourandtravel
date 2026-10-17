@@ -1,0 +1,196 @@
+[
+  {
+    "id": "pkg-open-trip-bali-malang",
+    "categoryTag": "open-trip",
+    "category": "Open Trip (Perjalanan Publik)",
+    "title": "Open Trip Bali & Malang Pro (Unggulan)",
+    "duration": "6 Hari 5 Malam",
+    "badge": "Paket Unggulan",
+    "badgeIcon": "fa-award",
+    "image": "images/pkg-bali-pro.jpg",
+    "imageAlt": "Open Trip Bali dan Malang Pro Duta Tour Bandung",
+    "gallery": [
+      "images/pkg-bali-pro.jpg",
+      "images/dest-malang.jpg",
+      "images/pkg-bromo.jpg",
+      "images/pkg-bali.jpg"
+    ],
+    "description": "Program perjalanan wisata gabungan terjadwal yang terbuka untuk perorangan, pasangan, hingga kelompok kecil. Menikmati eksotisme Pulau Dewata dan pesona sejuk Malang dengan fasilitas all-in.",
+    "destinations": [
+      "Bali (2 Malam): Pantai Kuta, Pandawa & Tanah Lot",
+      "Malang (1 Malam): Wisata Kota Malang & Kawasan Bromo",
+      "Spot Sunrise & Wisata Budaya Interaktif",
+      "Pusat Oleh-Oleh Khas Bali & Malang"
+    ],
+    "features": [
+      "Transportasi PP All-In & Nyaman",
+      "Hotel Penginapan (Bali 2 Malam + Malang 1 Malam)",
+      "Makan & Snack Selama Program Trip",
+      "Tiket Masuk Seluruh Objek Wisata",
+      "Itinerary Terstruktur & Tour Leader Berpengalaman"
+    ],
+    "price": "Rp2.500.000",
+    "priceNote": "/ pax",
+    "priceDisclaimer": "* Harga mulai dan jadwal keberangkatan open trip perlu dikonfirmasi via WhatsApp sebelum booking",
+    "targetPackage": "Open Trip Bali & Malang Pro (Unggulan)",
+    "ctaText": "Daftar Open Trip"
+  },
+  {
+    "id": "pkg-tour-pangandaran",
+    "categoryTag": "gathering",
+    "category": "Corporate & Family Gathering",
+    "title": "Custom Tour Pantai Pangandaran",
+    "duration": "3 Hari 2 Malam (Fleksibel)",
+    "badge": "Favorit Rombongan",
+    "badgeIcon": "fa-people-group",
+    "image": "images/pkg-pangandaran.jpg",
+    "imageAlt": "Custom Tour Pantai Pangandaran dan Body Rafting Ciwayang Duta Tour Bandung",
+    "gallery": [
+      "images/pkg-pangandaran.jpg",
+      "images/dest-ciwayang.jpg",
+      "images/bus-pariwisata.jpg",
+      "images/pkg-gathering.jpg"
+    ],
+    "description": "Solusi liburan kustom (custom trip) berskala besar untuk malam keakraban (makrab) organisasi, korporasi, hingga acara purnabakti instansi, rombongan sekolah, karang taruna, dan wisata desa.",
+    "destinations": [
+      "Pantai Barat & Pantai Timur Pangandaran",
+      "Wisata Air & Body Rafting Ciwayang",
+      "Kawasan Cagar Alam & Wisata Bahari",
+      "Area Makrab & Pesta Barbeque Pantai"
+    ],
+    "features": [
+      "Bus Pariwisata Premium AC & Reclining Seats",
+      "Konsumsi Lengkap (Makan Utama & Snack)",
+      "Instruktur Lokal Profesional Body Rafting",
+      "Dokumentasi Perjalanan & Spanduk Acara Khusus",
+      "Pengelolaan Logistik & Koordinator Lapangan"
+    ],
+    "price": "Sesuai Penawaran",
+    "priceNote": "(Hubungi Admin)",
+    "priceDisclaimer": "* Tarif rombongan fleksibel menyesuaikan jumlah peserta, titik jemput, dan fasilitas tambahan",
+    "targetPackage": "Custom Tour Pantai Pangandaran",
+    "ctaText": "Konsultasi Rombongan"
+  },
+  {
+    "id": "pkg-tour-priangan",
+    "categoryTag": "study-tour",
+    "category": "School Trip & Study Tour",
+    "title": "Custom Tour Lokal Priangan (Pangalengan / Lembang)",
+    "duration": "1 Hari (One Day Trip)",
+    "badge": "Edukasi & Outing Populer",
+    "badgeIcon": "fa-graduation-cap",
+    "image": "images/dest-pangalengan.jpg",
+    "imageAlt": "Custom Tour Lokal Priangan Pangalengan dan Lembang Duta Tour Bandung",
+    "gallery": [
+      "images/dest-pangalengan.jpg",
+      "images/dest-orchid-forest.jpg",
+      "images/dest-kawah-putih.jpg",
+      "images/pkg-studytour.jpg"
+    ],
+    "description": "Pengorganisasian perjalanan edukasi siswa sekolah (SD/SMP/SMA) dan universitas dengan destinasi interaktif, serta outing singkat keluarga yang menyegarkan di kawasan alam sejuk Priangan.",
+    "destinations": [
+      "Eksplorasi Kebun Teh Pangalengan / Ciwidey",
+      "Destinasi Nuansa Alam & Edukasi Lembang",
+      "Wahana Outbound & Interaksi Alam Terbuka",
+      "Spot Foto Alam & Agro Wisata Priangan"
+    ],
+    "features": [
+      "Transportasi Lokal Prima & Pengemudi Ramah",
+      "Tiket Masuk Terusan Objek Wisata",
+      "Snack Box & Air Mineral",
+      "Peralatan P3K & Standar Keselamatan",
+      "Bantuan Dokumentasi Lapangan"
+    ],
+    "price": "Sesuai Paket",
+    "priceNote": "(Hubungi Admin)",
+    "priceDisclaimer": "* Paket study tour dapat disesuaikan dengan kurikulum edukasi atau tema kegiatan sekolah",
+    "targetPackage": "Custom Tour Lokal Priangan (Pangalengan / Lembang)",
+    "ctaText": "Konsultasi Study Tour"
+  },
+  {
+    "id": "pkg-premium-transport",
+    "categoryTag": "transport-handling",
+    "category": "Premium Transport & Handling",
+    "title": "Premium Transport & Handling All-In",
+    "duration": "Fleksibel / Sesuai Jadwal",
+    "badge": "Paket All-In Handling",
+    "badgeIcon": "fa-van-shuttle",
+    "image": "images/bus-pariwisata.jpg",
+    "imageAlt": "Bus pariwisata premium dan armada wisata Duta Tour Bandung",
+    "gallery": [
+      "images/bus-pariwisata.jpg",
+      "images/car-hiace.jpg",
+      "images/car-innova.jpg",
+      "images/car-avanza.jpg"
+    ],
+    "description": "Paket all-in yang mencakup bus pariwisata premium, pengelolaan logistik perjalanan, konsumsi, pemandu (tour leader), hingga dokumentasi eksklusif untuk kenyamanan perjalanan tanpa repot.",
+    "destinations": [
+      "Rute Wisata Jawa Barat & Priangan",
+      "Rute Wisata Jawa Tengah & Jawa Timur",
+      "Rute Eksplorasi Bali & Lombok",
+      "Layanan Antar Jemput & Drop Off Khusus"
+    ],
+    "features": [
+      "Bus Pariwisata Premium & Opsi HiAce / MPV",
+      "Pengelolaan Logistik Perjalanan Menyeluruh",
+      "Penyediaan Konsumsi & Snack Rombongan",
+      "Pemandu (Tour Leader) Profesional & Ramah",
+      "Dokumentasi Eksklusif Selama Kegiatan"
+    ],
+    "price": "Sesuai Penawaran",
+    "priceNote": "(Tarif Terbaik)",
+    "priceDisclaimer": "* Harga dan ketersediaan armada perlu dikonfirmasi via WhatsApp sebelum pemesanan resmi",
+    "targetPackage": "Premium Transport & Handling All-In",
+    "ctaText": "Pilih Armada & Layanan",
+    "vehicles": [
+      {
+        "id": "v-bus",
+        "name": "Bus Pariwisata Premium",
+        "category": "Big / Medium Bus",
+        "price": "Sesuai Penawaran",
+        "priceNote": "/ trip",
+        "capacity": "30–50 Seat",
+        "image": "images/bus-pariwisata.jpg",
+        "imageAlt": "Bus Pariwisata Premium Duta Tour Bandung",
+        "badge": "Kapasitas 30–50 Seat",
+        "highlights": "Bus pariwisata premium ber-AC, reclining seat, audio video entertainment, bagasi lega, didampingi crew berpengalaman."
+      },
+      {
+        "id": "v-hiace",
+        "name": "Toyota Hiace",
+        "category": "Microbus / Van",
+        "price": "Sesuai Penawaran",
+        "priceNote": "/ hari",
+        "capacity": "Hingga 14 orang",
+        "image": "images/car-hiace.jpg",
+        "imageAlt": "Toyota Hiace armada rombongan Duta Tour Bandung",
+        "badge": "Kapasitas hingga 14 Orang",
+        "highlights": "Kapasitas hingga 14 orang. Kabin luas & tinggi dengan AC merata untuk rombongan wisata keluarga dan gathering instansi."
+      },
+      {
+        "id": "v-innova",
+        "name": "Toyota Innova Reborn",
+        "category": "Medium MPV Premium",
+        "price": "Sesuai Penawaran",
+        "priceNote": "/ hari",
+        "capacity": "6–7 orang",
+        "image": "images/car-innova.jpg",
+        "imageAlt": "Toyota Innova Reborn armada wisata Duta Tour Bandung",
+        "badge": "Kapasitas 6–7 Orang",
+        "highlights": "Kapasitas 6–7 orang. Kabin lapang, suspensi nyaman, dan elegan untuk liburan keluarga, tamu VIP, dan perjalanan dinas."
+      },
+      {
+        "id": "v-avanza",
+        "name": "Toyota Avanza",
+        "category": "MPV Keluarga",
+        "price": "Sesuai Penawaran",
+        "priceNote": "/ hari",
+        "capacity": "1–6 orang",
+        "image": "images/car-avanza.jpg",
+        "imageAlt": "Toyota Avanza armada wisata Duta Tour Bandung",
+        "badge": "Kapasitas 1–6 Orang",
+        "highlights": "Kapasitas 1–6 orang. Mobil keluarga andalan yang lincah dan nyaman untuk mobilitas di Bandung maupun rute luar kota."
+      }
+    ]
+  }
+]
