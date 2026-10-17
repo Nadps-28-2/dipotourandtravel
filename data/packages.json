@@ -1,0 +1,325 @@
+[
+  {
+    "id": "pkg-yogyakarta",
+    "categoryTag": "domestik",
+    "category": "Wisata Domestik • Rombongan",
+    "title": "Paket Wisata Yogyakarta",
+    "duration": "3 Hari 2 Malam",
+    "badge": "Rombongan Big Bus",
+    "badgeIcon": "fa-bus-simple",
+    "image": "https://images.unsplash.com/photo-1765680482008-45427d959099?auto=format&fit=crop&w=1200&q=80",
+    "imageFallback": "images/ph-yogyakarta.svg",
+    "imageAlt": "Candi Prambanan, destinasi paket wisata Yogyakarta Dipo Tour & Travel",
+    "gallery": [
+      "https://images.unsplash.com/photo-1765680482008-45427d959099?auto=format&fit=crop&w=1200&q=80",
+      "wiki:en:Taman_Sari_(Yogyakarta)",
+      "wiki:id:Tebing_Breksi"
+    ],
+    "description": "Paket rombongan 3 hari 2 malam ke Yogyakarta dengan Big Bus Pariwisata Dipo Trans PP dari Jabodetabek: wisata budaya, Tebing Breksi, Jeep Merapi Lava Tour, Pantai Parangtritis, hingga Keraton Yogyakarta.",
+    "destinations": [
+      "Candi Prambanan",
+      "Tebing Breksi",
+      "Jalan Malioboro",
+      "Jeep Merapi Lava Tour",
+      "Pantai Parangtritis",
+      "Keraton Yogyakarta / Taman Sari"
+    ],
+    "features": [
+      "Big Bus Pariwisata Dipo Trans PP dari Jabodetabek",
+      "Minimal 45 peserta / 1 Big Bus",
+      "Hotel rekanan, Twin/Triple Sharing",
+      "Makan terjadwal & snack box saat keberangkatan",
+      "Tiket masuk gerbang utama objek wisata",
+      "Local guide & Tour Leader dari Jakarta/Depok"
+    ],
+    "itinerary": [
+      {
+        "day": "Hari 0 — Perjalanan Malam",
+        "items": [
+          "20.00: Kumpul di meeting point (Depok/Jakarta), pemuatan bagasi, dan briefing.",
+          "21.00: Perjalanan malam via Tol Trans-Jawa (pembagian snack box)."
+        ]
+      },
+      {
+        "day": "Hari 1 — Wisata Budaya & Tebing",
+        "items": [
+          "Pagi: Tiba di Jogja, transit di resto lokal untuk mandi dan sarapan.",
+          "Siang: Eksplorasi Candi Prambanan bersama local guide, dilanjutkan makan siang.",
+          "Sore: Mengunjungi Tebing Breksi untuk foto-foto dengan latar tebing kapur ukir.",
+          "Malam: Check-in hotel, makan malam, dan acara bebas di Jalan Malioboro."
+        ]
+      },
+      {
+        "day": "Hari 2 — Petualangan Merapi & Pantai",
+        "items": [
+          "Pagi: Sarapan di hotel, lalu Jeep Merapi Lava Tour (Bunker Kaliadem, Alien Rock).",
+          "Siang: Makan siang di area Kaliurang.",
+          "Sore: Berburu oleh-oleh (Bakpia & Batik), dilanjutkan sunset di Pantai Parangtritis.",
+          "Malam: Makan malam keakraban (Gala Dinner grup) dan kembali ke hotel."
+        ]
+      },
+      {
+        "day": "Hari 3 — Sejarah Keraton & Perjalanan Pulang",
+        "items": [
+          "Pagi: Sarapan, check-out hotel, dan mengunjungi Keraton Yogyakarta atau Taman Sari.",
+          "Siang: Makan siang terakhir di Jogja.",
+          "13.30: Perjalanan pulang menuju Jabodetabek via tol. Tiba di titik awal sekitar pukul 23.00."
+        ]
+      }
+    ],
+    "price": "Rp1.550.000",
+    "priceNote": "/ pax (min. 45 peserta)",
+    "priceDisclaimer": "* Estimasi harga mulai dari (data demo dari materi Dipo Tour & Travel); tarif final dan ketersediaan perlu dikonfirmasi via WhatsApp.",
+    "targetPackage": "Paket Wisata Yogyakarta 3 Hari 2 Malam",
+    "ctaText": "Konsultasi Rombongan"
+  },
+  {
+    "id": "pkg-bandung-short-trip",
+    "categoryTag": "domestik",
+    "category": "Wisata Domestik • One Day Tour",
+    "title": "Paket Bandung Short Trip",
+    "duration": "1 Hari (One Day Tour)",
+    "badge": "One Day Trip",
+    "badgeIcon": "fa-sun",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_Alam_Kawah_Putih_Ciwidey.jpg?width=1200",
+    "imageFallback": "images/ph-bandung.svg",
+    "imageAlt": "Danau kawah Kawah Putih Ciwidey, salah satu opsi destinasi Bandung Short Trip",
+    "gallery": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Panorama_Alam_Kawah_Putih_Ciwidey.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Kawah_Putih_Ciwidey.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Kawah_Putih_Bandung_Indonesia.jpg?width=1200",
+      "wiki:en:Lembang"
+    ],
+    "description": "Wisata sehari ke Bandung dengan Bus Pariwisata AC Executive dari Depok/Jakarta: Lembang (Farmhouse atau Floating Market), lalu Kawah Putih atau belanja Factory Outlet di Jalan Riau / Cihampelas.",
+    "destinations": [
+      "Farmhouse Lembang",
+      "Floating Market Lembang",
+      "Kawah Putih (opsi Bandung Selatan)",
+      "Factory Outlet Jl. Riau / Cihampelas"
+    ],
+    "features": [
+      "Bus Pariwisata AC Executive",
+      "Berangkat 06.00 dari Depok/Jakarta via Tol Purbaleunyi",
+      "Snack box sarapan di bus",
+      "Makan siang & makan malam di resto lokal",
+      "Tiba kembali di Depok sebelum tengah malam"
+    ],
+    "itinerary": [
+      {
+        "day": "Susunan Acara Sehari",
+        "items": [
+          "06.00: Berangkat dari Depok/Jakarta menuju Bandung via Tol Purbaleunyi (sarapan snack box di bus).",
+          "Siang: Tiba di Bandung Utara (Lembang), mengunjungi Farmhouse Lembang atau Floating Market. Makan siang di resto lokal.",
+          "Sore: Mengunjungi Kawah Putih (jika mengambil opsi Bandung Selatan) atau belanja di Factory Outlet Jalan Riau / Cihampelas.",
+          "Malam: Makan malam di resto lokal dengan pemandangan kota, perjalanan pulang ke Depok, dan tiba sebelum tengah malam."
+        ]
+      }
+    ],
+    "price": "Rp399.000",
+    "priceNote": "/ pax",
+    "priceDisclaimer": "* Estimasi harga mulai dari (data demo dari materi Dipo Tour & Travel); tarif final dan ketersediaan perlu dikonfirmasi via WhatsApp.",
+    "targetPackage": "Paket Bandung Short Trip 1 Hari",
+    "ctaText": "Konsultasi Short Trip"
+  },
+  {
+    "id": "pkg-overland-bali",
+    "categoryTag": "domestik",
+    "category": "Wisata Domestik • Jalur Darat",
+    "title": "Paket Overland Bali",
+    "duration": "7 Hari 6 Malam",
+    "badge": "Overland Jalur Darat",
+    "badgeIcon": "fa-route",
+    "image": "wiki:en:Tanah_Lot",
+    "imageFallback": "images/ph-bali.svg",
+    "imageAlt": "Pura Tanah Lot, Bali - destinasi Paket Overland Bali Dipo Tour & Travel",
+    "gallery": [
+      "wiki:en:Tanah_Lot",
+      "wiki:en:Uluwatu_Temple",
+      "wiki:en:Mount_Batur"
+    ],
+    "description": "Perjalanan darat Depok–Bali membelah Pulau Jawa via Tol Trans-Jawa dengan Big Bus Pariwisata Executive, menyeberang Ketapang–Gilimanuk, lalu menjelajah Tanah Lot, Penglipuran, Kintamani, Pandawa/Melasti, dan Uluwatu.",
+    "destinations": [
+      "Pura Tanah Lot",
+      "Desa Penglipuran",
+      "Kintamani (Gunung Batur)",
+      "Pantai Pandawa / Melasti",
+      "Pura Uluwatu & Tari Kecak",
+      "Makan malam seafood Jimbaran"
+    ],
+    "features": [
+      "Big Bus Pariwisata Executive (AC, Audio Karaoke, Reclining Seat)",
+      "Minimal 90 peserta / 2 Big Bus",
+      "Penyeberangan Selat Bali Ketapang–Gilimanuk",
+      "Hotel rekanan, Twin/Triple Sharing",
+      "Konsumsi terjadwal di resto transit & lokal"
+    ],
+    "itinerary": [
+      {
+        "day": "Hari 1–2 — Perjalanan Darat",
+        "items": [
+          "Perjalanan darat dari Depok membelah Pulau Jawa via Tol Trans-Jawa, istirahat dan makan di resto transit.",
+          "Penyeberangan Selat Bali via Pelabuhan Ketapang–Gilimanuk."
+        ]
+      },
+      {
+        "day": "Hari 3 — Tiba di Bali",
+        "items": [
+          "Mengunjungi Pura Tanah Lot, check-in hotel, dan makan malam."
+        ]
+      },
+      {
+        "day": "Hari 4 — Budaya & Kintamani",
+        "items": [
+          "Tour budaya ke Desa Penglipuran, menikmati Kintamani (Gunung Batur), dan belanja di Krisna Oleh-Oleh."
+        ]
+      },
+      {
+        "day": "Hari 5 — Pantai & Uluwatu",
+        "items": [
+          "Mengunjungi Pantai Pandawa / Melasti, dilanjutkan ke Pura Uluwatu untuk melihat Tari Kecak, dan makan malam seafood di Jimbaran."
+        ]
+      },
+      {
+        "day": "Hari 6–7 — Perjalanan Pulang",
+        "items": [
+          "Check-out hotel, perjalanan kembali menyeberang ke Pulau Jawa, dan perjalanan pulang menuju Depok."
+        ]
+      }
+    ],
+    "price": "Rp1.876.000 – Rp2.107.000",
+    "priceNote": "/ pax (min. 90 peserta)",
+    "priceDisclaimer": "* Estimasi harga mulai dari (data demo dari materi Dipo Tour & Travel); tarif final dan ketersediaan perlu dikonfirmasi via WhatsApp.",
+    "targetPackage": "Paket Overland Bali 7 Hari 6 Malam",
+    "ctaText": "Konsultasi Overland"
+  },
+  {
+    "id": "pkg-bangkok-pattaya",
+    "categoryTag": "internasional",
+    "category": "Wisata Internasional",
+    "title": "Paket Eksotis Bangkok - Pattaya",
+    "duration": "4 Hari 3 Malam",
+    "badge": "Internasional",
+    "badgeIcon": "fa-earth-asia",
+    "image": "wiki:en:Wat_Arun",
+    "imageFallback": "images/ph-bangkok.svg",
+    "imageAlt": "Wat Arun (Temple of Dawn), Bangkok - destinasi Paket Bangkok Pattaya",
+    "gallery": [
+      "wiki:en:Wat_Arun",
+      "wiki:en:Wat_Pho",
+      "wiki:en:Nong_Nooch_Tropical_Garden"
+    ],
+    "description": "Paket 4 hari 3 malam ke Thailand: Wat Arun dan Wat Pho di Bangkok, Nong Nooch Tropical Garden dan Pattaya Floating Market, serta belanja di MBK Center / Platinum Mall.",
+    "destinations": [
+      "Wat Arun (Temple of Dawn)",
+      "Wat Pho",
+      "Nong Nooch Tropical Garden",
+      "Pattaya Floating Market",
+      "MBK Center / Platinum Mall",
+      "Night Market Bangkok"
+    ],
+    "features": [
+      "Hotel Bintang 3/4 di Bangkok & Pattaya",
+      "Belum termasuk tiket pesawat PP",
+      "Dijemput local guide di bandara Bangkok",
+      "Armada bus wisata lokal resmi",
+      "Konsumsi terjadwal & tiket masuk gerbang utama objek wisata"
+    ],
+    "itinerary": [
+      {
+        "day": "Hari 1 — Tiba di Bangkok",
+        "items": [
+          "Tiba di Bandara Don Mueang/Suvarnabhumi Bangkok, dijemput local guide, check-in hotel, dan waktu bebas di Night Market."
+        ]
+      },
+      {
+        "day": "Hari 2 — Wat Arun, Wat Pho & Pattaya",
+        "items": [
+          "Menyeberangi Sungai Chao Phraya dengan perahu menuju Wat Arun (Temple of Dawn) dan Wat Pho.",
+          "Siang: perjalanan darat ke Pattaya, mengunjungi Nong Nooch Tropical Garden, dan makan malam."
+        ]
+      },
+      {
+        "day": "Hari 3 — Floating Market & Belanja",
+        "items": [
+          "Mengunjungi Pattaya Floating Market, belanja suvenir di Erawadee/Gems Gallery, kembali ke Bangkok, dan belanja di MBK Center / Platinum Mall."
+        ]
+      },
+      {
+        "day": "Hari 4 — Kembali ke Indonesia",
+        "items": [
+          "Sarapan, acara bebas hingga waktu antar kembali ke bandara untuk penerbangan ke Indonesia."
+        ]
+      }
+    ],
+    "price": "Rp2.600.000",
+    "priceNote": "/ pax (belum termasuk tiket pesawat PP)",
+    "priceDisclaimer": "* Estimasi harga mulai dari (data demo dari materi Dipo Tour & Travel); tarif final dan ketersediaan perlu dikonfirmasi via WhatsApp.",
+    "targetPackage": "Paket Eksotis Bangkok - Pattaya 4 Hari 3 Malam",
+    "ctaText": "Konsultasi Bangkok"
+  },
+  {
+    "id": "pkg-tiga-negara",
+    "categoryTag": "internasional",
+    "category": "Wisata Internasional • Udara & Darat",
+    "title": "Paket Jelajah 3 Negara",
+    "duration": "7 Hari 6 Malam",
+    "badge": "Singapura • Malaysia • Thailand",
+    "badgeIcon": "fa-passport",
+    "image": "wiki:en:Merlion",
+    "imageFallback": "images/ph-tiga-negara.svg",
+    "imageAlt": "Patung Merlion, Singapura - destinasi Paket Jelajah 3 Negara",
+    "gallery": [
+      "wiki:en:Merlion",
+      "wiki:en:Petronas_Towers",
+      "wiki:en:Batu_Caves"
+    ],
+    "description": "Perjalanan 7 hari 6 malam dengan sistem gabungan udara dan darat: Singapura, Kuala Lumpur dan Genting Highlands di Malaysia, lalu Hatyai di Thailand Selatan.",
+    "destinations": [
+      "Merlion Park & Gardens by the Bay",
+      "Menara Kembar Petronas & Batu Caves",
+      "Genting Highlands",
+      "Hatyai: Samila Beach & Sleeping Buddha",
+      "Khlong Hae Floating Market"
+    ],
+    "features": [
+      "Sistem gabungan udara dan darat",
+      "Bus internasional menuju Hatyai (Thailand Selatan)",
+      "Hotel rekanan (minimal bintang 2 atau 3), Twin/Triple Sharing",
+      "Konsumsi terjadwal & tiket masuk gerbang utama objek wisata",
+      "Tiket pesawat & detail akomodasi: [Placeholder — dikonfirmasi admin]"
+    ],
+    "itinerary": [
+      {
+        "day": "Hari 1–2 — Singapura",
+        "items": [
+          "Penerbangan dari Jakarta ke Singapura. Tour foto di Merlion Park, Gardens by the Bay, dan Universal Studios (foto depan bola dunia).",
+          "Malam hari menyeberang ke Malaysia lewat darat."
+        ]
+      },
+      {
+        "day": "Hari 3–4 — Malaysia",
+        "items": [
+          "Menjelajahi Kuala Lumpur (Menara Kembar Petronas, Batu Caves) dan menikmati wahana serta kereta gantung di Genting Highland."
+        ]
+      },
+      {
+        "day": "Hari 5–6 — Thailand Selatan",
+        "items": [
+          "Perjalanan bus internasional menuju kota Hatyai (Thailand Selatan).",
+          "Mengunjungi Samila Beach, Sleeping Buddha, dan berbelanja kuliner khas Thailand di Khlong Hae Floating Market."
+        ]
+      },
+      {
+        "day": "Hari 7 — Perjalanan Pulang",
+        "items": [
+          "Perjalanan kembali ke Kuala Lumpur/Singapura untuk penerbangan pulang ke Jakarta."
+        ]
+      }
+    ],
+    "price": "Rp4.400.000",
+    "priceNote": "/ pax",
+    "priceDisclaimer": "* Estimasi harga mulai dari (data demo dari materi Dipo Tour & Travel); tarif final dan ketersediaan perlu dikonfirmasi via WhatsApp.",
+    "targetPackage": "Paket Jelajah 3 Negara 7 Hari 6 Malam",
+    "ctaText": "Konsultasi 3 Negara"
+  }
+]

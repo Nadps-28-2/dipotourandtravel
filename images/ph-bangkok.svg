@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Bangkok - Pattaya">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3F4095"/><stop offset="1" stop-color="#0EACDC"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<circle cx="1050" cy="120" r="260" fill="#fff" opacity=".07"/><circle cx="120" cy="720" r="320" fill="#fff" opacity=".06"/>
+<g fill="#fff" opacity=".92" transform="translate(430,170)"><path d="M0 460h340v-30H0z"/><rect x="40" y="250" width="260" height="180"/><path d="M60 250l110-190 110 190z"/><rect x="164" y="0" width="12" height="70"/></g>
+<rect x="0" y="650" width="1200" height="150" fill="#1d1e55" opacity=".55"/>
+<text x="600" y="715" text-anchor="middle" font-family="Poppins,Arial,sans-serif" font-size="46" font-weight="700" fill="#fff">Bangkok - Pattaya</text>
+<text x="600" y="765" text-anchor="middle" font-family="Poppins,Arial,sans-serif" font-size="26" fill="#E3F5FB">Placeholder — foto asli menyusul</text></svg>

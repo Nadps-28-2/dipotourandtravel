@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Bus Pariwisata Executive">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3F4095"/><stop offset="1" stop-color="#0EACDC"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<circle cx="1050" cy="120" r="260" fill="#fff" opacity=".07"/><circle cx="120" cy="720" r="320" fill="#fff" opacity=".06"/>
+<g transform="translate(250,330)"><rect width="700" height="230" rx="36" fill="#fff" opacity=".95"/>
+<rect x="40" y="40" width="620" height="80" rx="14" fill="#0EACDC" opacity=".55"/>
+<g fill="#3F4095" opacity=".35"><rect x="60" y="52" width="90" height="56" rx="8"/><rect x="170" y="52" width="90" height="56" rx="8"/><rect x="280" y="52" width="90" height="56" rx="8"/><rect x="390" y="52" width="90" height="56" rx="8"/><rect x="500" y="52" width="140" height="56" rx="8"/></g>
+<rect x="0" y="150" width="700" height="14" fill="#3F4095" opacity=".5"/>
+<circle cx="160" cy="236" r="46" fill="#363437"/><circle cx="160" cy="236" r="20" fill="#fff"/><circle cx="540" cy="236" r="46" fill="#363437"/><circle cx="540" cy="236" r="20" fill="#fff"/></g>
+<rect x="0" y="650" width="1200" height="150" fill="#1d1e55" opacity=".55"/>
+<text x="600" y="715" text-anchor="middle" font-family="Poppins,Arial,sans-serif" font-size="46" font-weight="700" fill="#fff">Bus Pariwisata Executive</text>
+<text x="600" y="765" text-anchor="middle" font-family="Poppins,Arial,sans-serif" font-size="26" fill="#E3F5FB">Placeholder — foto asli menyusul</text></svg>

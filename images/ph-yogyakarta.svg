@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-label="Yogyakarta">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3F4095"/><stop offset="1" stop-color="#0EACDC"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#g)"/>
+<circle cx="1050" cy="120" r="260" fill="#fff" opacity=".07"/><circle cx="120" cy="720" r="320" fill="#fff" opacity=".06"/>
+<g fill="#fff" opacity=".92" transform="translate(380,250)"><path d="M0 330h440v-40H0z"/><path d="M40 290h360l-30-70H70z"/><path d="M90 220h260l-26-60H116z"/><path d="M140 160h160l-22-50H162z"/><path d="M190 110h60l-14-40h-32z"/></g>
+<rect x="0" y="650" width="1200" height="150" fill="#1d1e55" opacity=".55"/>
+<text x="600" y="715" text-anchor="middle" font-family="Poppins,Arial,sans-serif" font-size="46" font-weight="700" fill="#fff">Yogyakarta</text>
+<text x="600" y="765" text-anchor="middle" font-family="Poppins,Arial,sans-serif" font-size="26" fill="#E3F5FB">Placeholder — foto asli menyusul</text></svg>
